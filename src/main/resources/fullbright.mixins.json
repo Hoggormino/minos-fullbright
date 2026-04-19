@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.niko.fullbright.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+    "GameRendererMixin",
+    "OptionInstanceAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

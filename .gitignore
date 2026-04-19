@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Mac
+.DS_Store
+
+# Mod dev runtime
+run/
+runs/
+logs/
+
+# Leftover IntelliJ "Hello World" scratch project
+untitled/
+
+.claude/
+
+Thumbs.db
+desktop.ini
